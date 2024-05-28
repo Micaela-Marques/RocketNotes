@@ -1,8 +1,34 @@
-# React + Vite
+<p align="center"> 
+  <img alt="Projeto" src="">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+</p>
 
-Currently, two official plugins are available:
+ <p align= "center"
+Tabela sem registro
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   
+  <img alt="Projeto" src="./assets/tabela vazia.png">
+
+
+
+<!--  -->
+
+
+<h2 align="center">Tecnologias 🚀</h2>
+   
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
+
+- **React**
+- **JavaScript (ES6 Modules)**
+- **CSS-in-JS**
+- **Vite**
+- **Styled Components**
+- **React Router**
+
+
+  
+  ---
+  <h3 align="center">Projeto💻 </h3>
+  <p>Acesse o projeto em <a href=""> site🌐
+  </p>
