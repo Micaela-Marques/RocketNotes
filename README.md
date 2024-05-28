@@ -1,11 +1,8 @@
 <p align="center"> 
-  <img alt="Projeto" src="">
+  <img alt="Projeto" src="RocketNote.png">
 
 </p>
 
- <p align= "center"
-Tabela sem registro
-</p>
 
    
   <img alt="Projeto" src="./assets/tabela vazia.png">
