@@ -27,5 +27,5 @@
   
   ---
   <h3 align="center">Projeto💻 </h3>
-  <p>Acesse o projeto em <a href="https://main--rocketnotes03.netlify.app/"> site🌐
+  <p>Acesse o projeto em <a href="https://rocketnotes03.netlify.app"> site🌐
   </p>
